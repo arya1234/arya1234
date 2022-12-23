@@ -38,6 +38,9 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
   <img width="1000" height="600" src="https://github.com/arya1234/arya1234/blob/main/gif_4.gif">
 </p>
 
+<h2 align = "center"> 🖥 My Projects </h2> 
+
+
 
 <!--
 -->
