@@ -12,9 +12,9 @@ I'm an __MS in Data Science__ student at __Northeastern University Khoury Colleg
 These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from __pharmaceutical__, __agricultural__, __retail__, __manufacturing__ and __automobile__ industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/arya1234/arya1234/blob/main/gif_1.gif">
-</p>![](https://github.com/arya1234/arya1234/blob/main/gif_1.gif)
-
+  <img width="1024" height="768" src="https://github.com/arya1234/arya1234/blob/main/gif_1.gif">
+</p><!--![](https://github.com/arya1234/arya1234/blob/main/gif_1.gif)
+-->
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
 I learned to code from a young age. I learned __"C"__ language and now I'm learning __python__ which gives me an edge in understanding machine learning and data science. As a result, I was able to learn and understand the code well. Later, I also learned various other programming languages such as __"R"__ which were important in order to become a __machine learning engineer__ or a __data scientist__. 
