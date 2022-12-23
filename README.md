@@ -40,7 +40,13 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 <h2 align = "center"> 🖥 My Projects </h2> 
 
+| 🎭 [Human Action Recognition](https://github.com/arya1234/Human_Action_Recognition)| 🏦 [Bank Marketing Data Analysis](https://github.com/arya1234/Bank-Marketing-EDA)|
+| :-:| :-:| 
+| [<img src = "https://github.com/arya1234/arya1234/blob/main/human_action.jpg" width = 500 height = 300/>](https://github.com/arya1234/Human_Action_Recognition)| [<img src="https://github.com/arya1234/arya1234/blob/main/bank_marketing.jpg" width = 500 height = 300/>](https://github.com/arya1234/Bank-Marketing-EDA)
 
+| 🧠‍ [Alzheimer's Classification](https://github.com/arya1234/Alzhiemer-Classification)| 👨‍💻 [Husky Simplex](https://github.com/Sudhendra/Husky_Simplex)|
+| :-:| :-:| 
+| [<img src = "https://github.com/arya1234/arya1234/blob/main/alzhiemers.jpg" width = 500 height = 300/>](https://github.com/arya1234/Alzhiemer-Classification)| [<img src="https://github.com/arya1234/arya1234/blob/main/husky.jpeg" width = 500 height = 300/>](https://github.com/Sudhendra/Husky_Simplex)
 
 <!--
 -->
