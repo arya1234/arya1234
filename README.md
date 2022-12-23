@@ -25,7 +25,7 @@ Below is a list of some of the skills that I've gained throughout my experience 
 
 ## 🎬📠 My GitHub Summary: 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Text%20Generated.gif" />
+<img src = "https://github.com/arya1234/arya1234/blob/main/git_2.gif" />
 
 Feel free to take a look at my __GitHub__ overview. This gives a good understanding of the __languages__ used along with the total commits. By taking a look at this summary, it is handy to get a brief overview of the entire __portfolio__. Thanks. 
 
