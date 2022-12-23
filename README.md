@@ -49,7 +49,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | [<img src = "https://github.com/arya1234/arya1234/blob/main/alzhiemers.jpg" width = 500 height = 300/>](https://github.com/arya1234/Alzhiemer-Classification)| [<img src="https://github.com/arya1234/arya1234/blob/main/husky.jpeg" width = 500 height = 300/>](https://github.com/Sudhendra/Husky_Simplex)
 
 
-<h2 align = "center"> Thank You for visiting my Profile 😄.</h2> 
+<h2 align = "center"> Thank You for visiting my Profile 😄</h2> 
 
 <!--
 -->
