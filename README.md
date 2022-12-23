@@ -29,5 +29,12 @@ Below is a list of some of the skills that I've gained throughout my experience 
 
 Feel free to take a look at my __GitHub__ overview. This gives a good understanding of the __languages__ used along with the total commits. By taking a look at this summary, it is handy to get a brief overview of the entire __portfolio__. Thanks. 
 
+## 💼🎒 My Portfolio Overview:
+
+I had an amazing experience doing __machine learning__ and __deep learning__ projects. Below are the links to my projects. If you want more information about the projects, feel free to contact me through my [email](mailto:arya.dhorajiya@gmail.com). Below is a __summary__ of tmy portfolio. Feel free to take a look :D
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/New%20Intro%20Gif%20Image.gif" width = 1000 height = 400/>
+
+
 <!--
 -->
