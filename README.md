@@ -19,7 +19,7 @@ My theoretical grasp of machine learning, deep learning, and data science has be
 
 My knowledge of the __"C++"__ programming language and my current study of __Python__ gives me an advantage when it comes to understanding the concepts and math behind machine learning and data science. I was able to learn, comprehend and produce the code as a result. Currently, I am learning additional programming languages like "R," which was necessary to become a "Machine Learning Engineer" or "Data Scientist."
 
-Below is a list of some of the skills that I've gained throughout my experience of working with data science and machine learning. Learning these important __tools__ and __techniques__ helped me build __machine learning projects__ and understand their work in full detail. Feel free to take a look.
+Given below are some of the skills that I've gained throughout my experience of working with data science and machine learning. Learning these important __tools__ and __techniques__ helped me build __machine learning projects__ and understand their work in full detail. Feel free to take a look.
 
 ## 🎬📠 My GitHub Summary: 
 
